@@ -12,3 +12,6 @@ In this project, I will be creating a webpage and dynamic table using Javascript
 
 ## Results 
 
+After creating the intial webpage in the module, the first task at hand was to add the new search parameters that will filter results in our table. 
+
+![1](https://user-images.githubusercontent.com/45697471/117880991-b5264000-b276-11eb-9b84-c5e867c56dc4.png = 250 x 250)
